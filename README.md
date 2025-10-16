@@ -65,9 +65,18 @@ During my Bachelor’s in Computer Science (Data Science), I noticed that freigh
 > Random Forest and XGBoost performed the best, capturing complex patterns between features and train delays.  
 
 ---
-
 ## Visualizations / Screenshots
-<img width="1366" height="768" alt="Picture1" src="https://github.com/user-attachments/assets/874dae30-238c-4ed4-a5fa-d503cf966f84" />
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/874dae30-238c-4ed4-a5fa-d503cf966f84" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/3b4a3cff-12fc-42f6-ae39-b38cfd6a5ab9" width="400" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/afdae9d5-4dfd-4467-9f17-0e6b5d7db489" width="400" /></td>
+    <td><img src="https://github.com/user-attachments/assets/5cca9994-2a63-4a3b-b201-41e47d17ed20" width="400" /></td>
+  </tr>
+</table>
 
 *(Add screenshots of plots here, e.g., Actual vs Predicted delays, Feature Importance charts, etc.)*
 

@@ -12,6 +12,12 @@ Using historical train data, operational factors, and environmental features, th
 
 ---
 
+### Highlights
+- Built end-to-end ML pipeline for delay prediction  
+- Handled messy real-world train operation data  
+- Visualized model insights to support decision-making
+
+---
 ## Motivation
 
 During my Bachelor’s in Computer Science (Data Science), I noticed that freight operations often face unpredictable delays. I wanted to explore how **data-driven models** can help predict these delays and improve efficiency. This project reflects my interest in applying machine learning to real-world operational challenges.
@@ -67,18 +73,10 @@ During my Bachelor’s in Computer Science (Data Science), I noticed that freigh
 ---
 ## Visualizations / Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/874dae30-238c-4ed4-a5fa-d503cf966f84" width="400" /></td>
-    <td><img src="https://github.com/user-attachments/assets/3b4a3cff-12fc-42f6-ae39-b38cfd6a5ab9" width="400" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/afdae9d5-4dfd-4467-9f17-0e6b5d7db489" width="400" /></td>
-    <td><img src="https://github.com/user-attachments/assets/5cca9994-2a63-4a3b-b201-41e47d17ed20" width="400" /></td>
-  </tr>
-</table>
+These visuals illustrate the prediction results and model comparisons for the different algorithms, showing how each model performs on actual train delay data.
 
-*(Add screenshots of plots here, e.g., Actual vs Predicted delays, Feature Importance charts, etc.)*
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/874dae30-238c-4ed4-a5fa-d503cf966f84" width="400" /></td> <td><img src="https://github.com/user-attachments/assets/3b4a3cff-12fc-42f6-ae39-b38cfd6a5ab9" width="400" /></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/afdae9d5-4dfd-4467-9f17-0e6b5d7db489" width="400" /></td> <td><img src="https://github.com/user-attachments/assets/5cca9994-2a63-4a3b-b201-41e47d17ed20" width="400" /></td> </tr> </table>
+
 
 ---
 
@@ -92,8 +90,8 @@ During my Bachelor’s in Computer Science (Data Science), I noticed that freigh
 
 ## Author
 
-**Abdul Furkhan** – I led the project and collaborated with peers as part of my Bachelor’s in CSE (Data Science).  
-> This project demonstrates my skills in **data preprocessing, machine learning, and predictive analytics**, and shows my interest in solving real-world logistical challenges with data-driven solutions.
+**Abdul Furkhan** – Developed this project independently as part of my Bachelor’s in CSE (Data Science).  
+> This project demonstrates my skills in **data preprocessing, machine learning, and predictive analytics**, and reflects my ability to solve real-world operational challenges using data-driven solutions.
 
 ---
 

@@ -67,6 +67,7 @@ During my Bachelor’s in Computer Science (Data Science), I noticed that freigh
 ---
 
 ## Visualizations / Screenshots
+<img width="1366" height="768" alt="Picture1" src="https://github.com/user-attachments/assets/874dae30-238c-4ed4-a5fa-d503cf966f84" />
 
 *(Add screenshots of plots here, e.g., Actual vs Predicted delays, Feature Importance charts, etc.)*
 

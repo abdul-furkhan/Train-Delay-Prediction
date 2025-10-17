@@ -1,13 +1,18 @@
-pip install numpy==1.19.2
-pip install pandas==0.25.3
-pip install matplotlib==3.1.1
-pip install scikit-learn==0.24
-pip install shap==0.38.1
-pip install lightgbm==4.0.0
-pip install xgboost==1.6.2
-pip install scikit-learn==0.24
-pip install seaborn==0.10.1
 
+# Numerical computing
+numpy==1.19.2
 
+# Data manipulation
+pandas==0.25.3
 
- 
+# Data visualization
+matplotlib==3.1.1
+seaborn==0.10.1
+
+# Machine Learning
+scikit-learn==0.24
+xgboost==1.6.2
+lightgbm==4.0.0
+
+# Explainable AI / Feature importance
+shap==0.38.1
